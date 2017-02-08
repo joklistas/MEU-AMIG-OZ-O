@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Meu Amigãozão[/COLOR]
+
+#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
+
+#EXTINF:-1, [COLOR red]ATUALIZADA EM 25/01/2017[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Lili Baba e o Anel e A Abelhuda  
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fOaItsx5Y0Y
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Criticar e Facil e Esse Jogo Não
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hNIP08__gZc
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Castelo nas Nuvens e Fiz Besteira 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6_DcG8bM2iE
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu AmigaoZao - O Segredo do Porao e Dormindo Fora de Casa 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3NaoxBjXESY
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - O Melhor da Praia e Meu Pe de Moleque 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CoGi3cC1pmo
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Show de Bola e Entrando numa Fria
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=na-8GjZyW8w
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Ninguem Segura Bichinho e Princesa Perfeita 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u_ZJ_tnD1p4
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Laranja e Roxo , Contando em Blungabum
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_bTCu1QKKd8
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Tempo Fechado , Por debaixo do Mar
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WpM8DpZW4yE
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigazao - Nao Vou Chorar e Dia do Amigo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=enJ-KUprzvQ
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Eu Não Tinha Pensado, Rei dos Macacos 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QGUSHhCyzkI
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu AmigaoZãao - Cabeleira das Cavernas , Espinafrada  
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=10pdhkhmjCU
+
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Super mega matt 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wP6vFXA4h7g
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Meu Parque de Diversoes e Meu Forte 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sMMrWRJ1qc0
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Pequeno Grande Amigo e Fora do Tom
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mN1R-LFWWEo
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - conto de Fadas , Dono da Festa
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DbIgy-jPgrI
+
+#EXTINF:-1 tvg-logo="http://www.dinap.com.br/site//imagem/amigaozao_dinap_2810.jpg" group-title="DESENHO",Meu Amigaozao - Cha de Bonecas, Quero Quente 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kQJeL5cc4-I
